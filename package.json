@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "bun-types": "^1.2.0",
+    "bun-types": "^1.2.4",
     "express": "^4.21.2",
     "fetch-factory": "^0.0.1",
     "is-even": "0.1.0",
